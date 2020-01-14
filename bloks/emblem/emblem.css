@@ -1,0 +1,7 @@
+@import url("./__title/emblem__title.css");
+@import url("./__grid/emblem__grid.css");
+.emblem {
+    display:none;
+    max-width: 1184px;
+    margin: 82px auto;
+}

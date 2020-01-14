@@ -1,0 +1,7 @@
+@import url("./__container/comments__container.css");
+@media all and (max-width: 1184px){
+    .comments {
+        max-width: 95%;
+        margin:0 auto;
+    }
+}

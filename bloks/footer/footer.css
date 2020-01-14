@@ -1,0 +1,23 @@
+@import url("./__copyright/footer__copyright.css");
+@import url("./__navigation/footer__navigation.css");
+.footer {
+    display: flex;
+    max-width: 1184px;
+    margin: 160px auto 0;
+    padding-bottom: 48px;
+}
+@media all and (max-width: 1184px) {
+    .footer {
+        
+        max-width: 95%;
+    }
+}
+
+@media all and (max-width: 767px) {
+    .footer {
+        flex-direction: column;
+        justify-content: left;
+        padding-bottom: 25px;
+        max-width: 95%;
+    }
+}

@@ -1,0 +1,9 @@
+.intro__fact {
+    list-style-type: none;
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+}

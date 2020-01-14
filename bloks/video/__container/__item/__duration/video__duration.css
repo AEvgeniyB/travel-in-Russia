@@ -1,0 +1,15 @@
+.video__duration {
+    position: absolute;
+    z-index: 1;
+    top: 30%;
+    left: 5%;
+    max-width: 44px;
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 13px;
+    letter-spacing: 0.3em;
+
+    color: #FFFFFF;
+}

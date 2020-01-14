@@ -1,0 +1,14 @@
+@import url("./__image/comment_image.css");
+@import url("./__quote/comment__quote.css");
+@import url("./__author/comment__author.css");
+.comment {
+   max-width: 350px;
+    
+}
+@media all and (max-width: 1020px) {
+    .comment {
+      box-align: center;
+      text-align: center;
+      margin-bottom: 50px;
+    }
+}

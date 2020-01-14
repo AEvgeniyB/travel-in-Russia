@@ -1,0 +1,11 @@
+@import url("./__item/emblem__item.css");
+.emblem__grid {
+    margin: 82px auto 0;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 1fr;
+    column-gap: 55px;
+    justify-content: center;
+    text-align: center;
+
+}

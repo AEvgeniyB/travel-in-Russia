@@ -1,0 +1,18 @@
+@import url("./place__paragrap/place__paragraph.css");
+.place__paragraphs {
+    margin-top:60px;
+    margin-left: 40px;
+    max-width:483px;
+   
+}
+@media all and (max-width: 1020px) {
+    .place__paragraphs {
+        max-width:340px;
+       
+    }
+}
+@media all and (max-width: 767px) {
+    .place__paragraphs {
+        margin-left:5%;
+    }
+}

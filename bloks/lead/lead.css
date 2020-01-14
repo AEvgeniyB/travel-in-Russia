@@ -1,0 +1,9 @@
+@import url("./__title/section-title.css");
+@import url("./__subtitle/section-subtitle.css");
+@import url("./__image/lead__image.css");
+@import url("./__caption/lead__caption.css");
+.lead {
+    margin: 48px auto;
+    max-width: 985px;
+      
+}

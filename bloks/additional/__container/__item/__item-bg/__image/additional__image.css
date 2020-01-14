@@ -1,0 +1,8 @@
+.additional__image {
+    position: absolute;
+    width: 284px;
+    height: 330px;
+    border-radius: 5px;
+    z-index: 0;
+    opacity: .5;
+}
